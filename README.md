@@ -33,8 +33,8 @@ We provide two file to link bot.<br />
 <br />
 Below are some bot that contains adult material, if you are not of appropriate age please don't use these bot. No other warning will br provided. <br />
 1. HEVCFapFilesBot - Provides HEVC X265 encoded nsfw files.<br />
-2. TBIPornBot - This is just useruploaded nsfw files.<br />
-3. MixMediaZBot - Mix media files uploaded by users.<br />
+2. TBIPornBot - This is just provides useruploaded nsfw files.<br />
+3. MixMediaZBot - Provides mix media files uploaded by users.<br />
 <br />
 <h3>Ok Now You Know All The Bots And What Do They Provide, How Can One Use Any One Of These Bot?</h3><br />
 To use any of our bots which we mentioned just above, you have to set a channel. First thing why should someone set a channel? 
