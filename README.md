@@ -17,3 +17,15 @@ You can start (send /start command) any of our archive bot (listed below) and th
 <br />
 <br />
 <h3>Ok, Profile System Understood, What Are The Bot I Can Use And What Do They Provide?</h3>
+Here is list of all the bots and what they provide. This list will be updated as we keep adding or remove services.
+<br />
+1. FileServingBot & TGArchiveeuOrgBot - These two provides movies and tv shows files.
+2. MMHuntbot - Provides movies , specifically south indian and other regional language.
+3. TGA_AnimeBot - Provides anime in different qualities and different encodes.
+4. BhadooMusicBot - Provides music files , quality is upto flac.
+5. Modringsmanager_bot - Provides androud modded apps and games.
+<br />
+Below are some bot that contains adult material, if you are not of appropriate age please don't use these bot. No other warning will br provided. <br />
+1. HEVCFapFilesBot - Provides HEVC X265 encoded nsfw files.
+2. TBIPornBot - This is just useruploaded nsfw files.
+3. MixMediaZBot - Mix media files uploaded by users.
