@@ -8,11 +8,10 @@ We have a implimented a new system of profile in order to go fully private after
 <h3>Can i create a profile anytime?</h3>
 Yes, you can create a profile any time you want till 31st may. After that we will not take any new user. We will only serve the user who have created their profile till then. Again all of our services will become fully private for our subscribers after 31st may. So if you wanna share the bots, now is the time.
 <h3>How to create a profile or check if i have an profile?</h3>
-You can start (send /start command) any of our archive bot (listed below) and that's it. If you are unsure whether you have created a profile or not or if your profile creation was succesfull , you can just send /profile command to any of our bot and it will show you whether a profile is created or not. See images below.
-
-
-
-![Screenshot_9](https://github.com/erroratservice/faqs/assets/110653823/1c783c78-2374-4d1e-a1b1-e66784030405)
-
-![Screenshot_1](https://github.com/erroratservice/faqs/assets/110653823/62c5354a-f9b3-482c-9b04-0e4622d546ce)
+You can start (send /start command) any of our archive bot (listed below) and that's it. If you are unsure whether you have created a profile or not or if your profile creation was succesfull , you can just send /profile command to any of our bot and it will show you whether a profile is created or not. See images below. <br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/1c783c78-2374-4d1e-a1b1-e66784030405" width="500">
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/62c5354a-f9b3-482c-9b04-0e4622d546ce" width="500">
+<br />
 
