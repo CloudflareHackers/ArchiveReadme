@@ -17,7 +17,7 @@ You can start (send /start command) any of our archive bot (listed below) and th
 <br />
 <br />
 <h3>Ok, Profile System Understood, What Are The Bot I Can Use And What Do They Provide?</h3>
-Here is list of all the bots and what they provide. This list will be updated as we keep adding or remove services.
+Here is list of all the bots and what they provide. This list will be updated as we keep adding or remove services.Currently here are 7 file providers bots and 2 file to link bots are added in our organisation.
 <br />
 1. FileServingBot & TGArchiveeuOrgBot - These two provides movies and tv shows files.<br />
 2. MMHuntbot - Provides movies , specifically south indian and other regional language.<br />
@@ -25,7 +25,14 @@ Here is list of all the bots and what they provide. This list will be updated as
 4. BhadooMusicBot - Provides music files , quality is upto flac.<br />
 5. Modringsmanager_bot - Provides androud modded apps and games.<br />
 <br />
+We provide two file to link bot.<br />
+1. LinkerX2bot
+2. LinkerX3bot
+<br />
 Below are some bot that contains adult material, if you are not of appropriate age please don't use these bot. No other warning will br provided. <br />
 1. HEVCFapFilesBot - Provides HEVC X265 encoded nsfw files.<br />
 2. TBIPornBot - This is just useruploaded nsfw files.<br />
 3. MixMediaZBot - Mix media files uploaded by users.<br />
+<br />
+<h3>Ok Now You Know All The Bots And What Do They Provide, How Can One Use Any One Of These Bot?</h3><br />
+To use any of our bots which we mentioned just above, you have to set a channel. First thing why should someone set a channel? 
