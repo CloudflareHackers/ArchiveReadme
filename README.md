@@ -76,16 +76,43 @@ Congratulation, you have completed the task of setting a channel succesfully. Ju
 I used FileServing bot for this example but you can use any of the archive bot you like. 
 <br />
 <br />
-Now type @Fileservingbot in the chat bot or send /start command once again and tap on the 'Use inline mode' button.
+Now type @Fileservingbot in the chat bot or send /start command once again and tap on the 'Use inline mode' button and type the movie or shows name.
 <br />
 <br />
 <img src="https://github.com/erroratservice/faqs/assets/110653823/c38c16aa-07ae-46d7-90be-96f552755b1f" width="500">
 <br />
 <br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/63105831-770c-4f33-9ee7-843e32e1a527" width="500"><br />
+<br />
+File will be send in your channel. 
 
-
-
-
+<h3>Ok You Have Setupped One Bot Successfully, What If You Wanna Use Other Bots As Well, What Should You Do?</h3>
+You can use the same channel for all the archive bots , You just need to Start the bot you like and then follow process. Let's setup MMHuntbot with the same channel now.<br />
+1. Start the second or third bot you wanna use , i am using MMHuntbot for example. Send /start command and then /setchannel command after that. It will tell you that your channel is already set. Now you just have to add this bot in the channel to get files. <br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/e55696a3-bb82-4772-9266-82432e0ce8c3" width="500"><br />
+<br />
+2. Just tap on 'Add or create channel' and select the channel we used earlier.<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/804de48f-95f4-4ea4-b676-6ac41e6c323f" width="500"><br />
+<br />
+3. It will show you a response like show below. <br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/59bbadf7-0b3e-4279-aaee-16bc1e16618d" width="500"> <br />
+<br />
+Now you are ready to use the bot, just tap on use in line mode. And file will be sent to the channel. <br />
+<br />
+<h3>Ok, You Have Successfully Setupped The Bot, How Can You Get Download Links With The Files As Well? </h3> <br />
+To get download links with the you have to setup LinkerX services in the same channel. Let's do that. <br />
+<br />
+1. Start either LinkerX2bot Or LinkerX3bot. And send the /setchannel command to it. <br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/9627df39-f13f-4d42-ba37-fd15a45b37e1" width="500">
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/9b69ba0d-1572-48f3-aeb5-b21871cc326b" width="500">
+<br />
+<br />
 
 
 
