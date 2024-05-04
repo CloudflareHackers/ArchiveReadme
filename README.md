@@ -121,12 +121,45 @@ To get download links with the you have to setup LinkerX services in the same ch
 <img src="https://github.com/erroratservice/faqs/assets/110653823/c3129fc7-62d5-45be-90bd-38626e1c854a" width="500">
 <br />
 <br />
-3. Give the Bot the permission and tap on 'Add Bot as Admin'
+3. Give the Bot the permission and tap on 'Add Bot as Admin' and repeat the same process untill you have add all these bots in the channel with permission.
 <br />
 <br />
 <img src="https://github.com/erroratservice/faqs/assets/110653823/614f74e6-d575-4649-af7f-04d0d890849f" width="500">
 <br />
 <br />
+It should look like this in the channel admin page once you added all the bots.
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/d23ba93a-7bfc-4cbb-bf49-8517b0460ad5" width="500">
+<br />
+<br />
+4. Now send your channel id with /setchannel command as show below. To get your channel id you can send /profile command or /setchannel command to any of the archive bot , they will give you the channel id. 
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/35a07733-7e27-42bf-9b62-bedcba1ec42b" width="500">
+<br />
+<br />
+Scucess Message should look like shown below.
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/bce4f43d-ce75-4f10-aa71-8754420d9066" width="500">
+<br />
+<br />
+See the below images for example on how can you find the channel id.
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/28725c4a-88f4-4605-ae17-b8e20a5071e9" width="500">
+<br />
+<br />
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/c4ad5d1a-8408-47ba-accd-7c40915d1f59" width="500">
+<br />
+<br />
+
+And you are all set. Now if you get andy file using any archive bot you will get it with download link. Also you can forward any file to the channel to get downnload link of that file as well.
+
+
 
 
 
