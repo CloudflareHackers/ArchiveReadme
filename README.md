@@ -72,6 +72,16 @@ Congratulation, you have completed the task of setting a channel succesfully. Ju
 <br />
 <br />
 <img src="https://github.com/erroratservice/faqs/assets/110653823/74c3c783-91d8-400e-870c-9ac6a32cde36" width="500"><br />
+<br />
+I used FileServing bot for this example but you can use any of the archive bot you like. 
+<br />
+<br />
+Now type @Fileservingbot in the chat bot or send /start command once again and tap on the 'Use inline mode' button.
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/c38c16aa-07ae-46d7-90be-96f552755b1f" width="500">
+<br />
+<br />
 
 
 
