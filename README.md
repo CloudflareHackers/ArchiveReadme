@@ -157,7 +157,27 @@ See the below images for example on how can you find the channel id.
 <br />
 <br />
 
-And you are all set. Now if you get andy file using any archive bot you will get it with download link. Also you can forward any file to the channel to get downnload link of that file as well.
+And you are all set. Now if you get andy file using any archive bot you will get it with download link. Also you can forward any file to the channel to get downnload link of that file as well.Check the demo below.
+
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/91994b84-fc4b-444c-b0b3-ae10e5f17a84" width="500">
+<br />
+<br />
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/9cea32b5-529e-4f2e-a058-1cc606504abc" width="500">
+<br />
+<br />
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/cc63272f-0258-4a6f-b46d-9cda89b38155" width="500">
+<br />
+<br />
+
+
+This is all for today. I hope this tutorial was easy to follow as i have tried to make it as simple as possible with image instructions. Have nice day.
+
 
 
 
