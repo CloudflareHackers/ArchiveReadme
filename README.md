@@ -113,6 +113,21 @@ To get download links with the you have to setup LinkerX services in the same ch
 <img src="https://github.com/erroratservice/faqs/assets/110653823/9b69ba0d-1572-48f3-aeb5-b21871cc326b" width="500">
 <br />
 <br />
+2. Now add the bots that are show below as an admin in the channel we used earlier. Tap on the bots name button one by one and choose the channel we created earlier. See example below. <br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/1799ef22-1cc7-402a-9993-55abc6dab14a" width="500">
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/c3129fc7-62d5-45be-90bd-38626e1c854a" width="500">
+<br />
+<br />
+3. Give the Bot the permission and tap on 'Add Bot as Admin'
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/614f74e6-d575-4649-af7f-04d0d890849f" width="500">
+<br />
+<br />
+
 
 
 
