@@ -37,4 +37,14 @@ Below are some bot that contains adult material, if you are not of appropriate a
 3. MixMediaZBot - Provides mix media files uploaded by users.<br />
 <br />
 <h3>Ok Now You Know All The Bots And What Do They Provide, How Can One Use Any One Of These Bot?</h3><br />
-To use any of our bots which we mentioned just above, you have to set a channel. First thing why should someone set a channel? 
+To use any of our bots which we mentioned just above, you have to set a channel. Follow the instruction below to set a channel.<br />
+1. Send /setchannel command to any of the archive bots.<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/db40da9e-27bd-49f8-909b-790ca6e3c811" width="500"><br />
+2. Now tap on the 'Add or create channel'<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/911d964b-191a-40b5-afb2-68fd506c3534" width="500"><br />
+If you dont see the Add or create channel tap on the button shown in the image below.<br />
+<img srch="https://github.com/erroratservice/faqs/assets/110653823/07ef3706-0737-4b8b-9adb-9369e5b619a3" width="500"><br />
+
+
