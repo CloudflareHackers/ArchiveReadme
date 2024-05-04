@@ -40,11 +40,42 @@ Below are some bot that contains adult material, if you are not of appropriate a
 To use any of our bots which we mentioned just above, you have to set a channel. Follow the instruction below to set a channel.<br />
 1. Send /setchannel command to any of the archive bots.<br />
 <br />
-<img src="https://github.com/erroratservice/faqs/assets/110653823/db40da9e-27bd-49f8-909b-790ca6e3c811" width="500"><br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/db40da9e-27bd-49f8-909b-790ca6e3c811" width="500"><br /> 
+<br />
 2. Now tap on the 'Add or create channel'<br />
 <br />
 <img src="https://github.com/erroratservice/faqs/assets/110653823/911d964b-191a-40b5-afb2-68fd506c3534" width="500"><br />
+<br />
 If you dont see the Add or create channel tap on the button shown in the image below.<br />
-<img srch="https://github.com/erroratservice/faqs/assets/110653823/07ef3706-0737-4b8b-9adb-9369e5b619a3" width="500"><br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/07ef3706-0737-4b8b-9adb-9369e5b619a3" width="500"><br />
+<br />
+3. Tap on 'Create a new channel for this' <br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/ce8cb75a-8edc-4161-835b-c2788c532202" width="500"><br />
+<br />
+You can use an old channel you created but we recommand you use a new channel to avoid any issue that might occur with old channel.<br />
+<br />
+4. Give channel a name and tap on create. <br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/1370a13b-9e5e-4fab-9c9a-ec7653912378" width="500"> <br />
+<br />
+It will immediately show you a response as shown below.<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/2eeba7b0-6bc3-4132-b6ea-7f84f6df9071" width="500"> <br />
+<br />
+5. Tap on "Click here to set channel", It will show response something like shown below.<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/d5ff538f-97cb-436e-bd7b-8977177d64b5" width="500"> <br />
+<br />
+Congratulation, you have completed the task of setting a channel succesfully. Just wait a few minutes and send the /profile command to the bot. It will show you the channel id set in User Channel id section.
+<br />
+<br />
+<img src="https://github.com/erroratservice/faqs/assets/110653823/74c3c783-91d8-400e-870c-9ac6a32cde36" width="500"><br />
+
+
+
+
+
 
 
